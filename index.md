@@ -2,7 +2,7 @@
 title: API Index
 short_desc: API Documentation Index
 tags: api
-path: lua_api/Index
+path: lua_api
 public: true
 private: false
 uuid: 6ea5546b-025a-7959-8a8e-9c894594a863
